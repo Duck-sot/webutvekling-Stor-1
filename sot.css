@@ -1,6 +1,6 @@
 .nav ul{
     list-style: none;
-    background-color: #1b2838  ;
+    background-color: #1b2838;
     margin: 0;
     overflow: hidden;
     padding-left: 35.90%;
@@ -28,7 +28,7 @@ body{
 }
 
 .container{
-    display: grid;;
+    display: grid;
     grid-template-columns: 1fr 1fr 1fr 2fr;
     grid-auto-rows: minmax(100px,auto);
 
@@ -54,7 +54,7 @@ nav{
 .left{
     grid-area: text;
     color: #c7d5e0;
-    background-color:  #2a475e ;
+    background-color: #2a475e;
     margin: 10px;
 }
 .right{
@@ -75,7 +75,7 @@ footer{
 }
 
 p{
-    font-size:large ;
+    font-size: 1.2em;
 }
 
 .right img{
